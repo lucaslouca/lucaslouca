@@ -10,6 +10,3 @@
 
 <img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">
 |--|--|--|
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslouca&theme=react&line_height=27&layout=compact" />
-
