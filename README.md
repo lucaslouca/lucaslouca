@@ -3,7 +3,7 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/lucasl)](https://www.hackerrank.com/lucasl)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=lucaslouca.visitor-badge)](https://github.com/lucaslouca) 
 
-**Stack**
+**Stack & Stats**
 
 <p>
   <a href="https://github.com/lucaslouca/handle-path-oz">
