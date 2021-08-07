@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=vinitshahdeo.visitor-badge)](https://github.com/vinitshahdeo) 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=lucaslouca.visitor-badge)](https://github.com/lucaslouca) 
 
 <!--
 **lucaslouca/lucaslouca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
