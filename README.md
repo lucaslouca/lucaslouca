@@ -3,10 +3,12 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/lucasl)](https://www.hackerrank.com/lucasl)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=lucaslouca.visitor-badge)](https://github.com/lucaslouca) 
 
-**Programming Languages**
+**Stack**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
-|--|--|--|
+<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+|--|--|--|--|--|--|--|--|
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslouca&theme=react&line_height=27&layout=compact" />
 
