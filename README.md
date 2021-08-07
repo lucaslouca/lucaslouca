@@ -6,13 +6,9 @@
 **Stack**
 
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+  <a href="https://github.com/lucaslouca/handle-path-oz">
+    <img width="55%" align="right" alt="Lucas' github stats" src="https://github-readme-stats.vercel.app/api?username=lucaslouca&show_icons=true&hide_border=true" />
   </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
