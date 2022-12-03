@@ -1,4 +1,3 @@
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/lucaslouca/)](https://github.com/lucaslouca/) 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=lucaslouca.visitor-badge)](https://github.com/lucaslouca) 
 
 <a href="https://github.com/lucaslouca/handle-path-oz">
